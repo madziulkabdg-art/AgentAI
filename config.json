@@ -1,0 +1,24 @@
+{
+  "company_name": "pawnSlombard",
+  "city": "bydgoszcz",
+  "audience": "pożyczkobiorcy, finanse, pożyczki, mężczyźni i kobiety, kłopoty finansowe",
+  "tone": "fachowy, prosty, spokojny, pomocny, bez straszenia, wzbudzający zaufanie",
+  "services": ["pożyczki", "skup rzeczy", "skup i sprzedaż złoto", "skup i sprzedaż elektronika", "skup i sprzedaż narzędzia, elektronarzędzia", "biżuteria", "sklep", "używane rzeczy", "lombard", "komis", "handel"],
+  "customer_questions": [
+    "Ile kosztuje gram złota?",
+    "Jak zawrzeć umowę pożyczki?",
+    "Ile kosztuje pożyczka?",
+    "Gdzie mogę sprzedać używane rzeczy?",
+    "Czy mogę kupić złoto?",
+    "Czy mogę kupić elektronarzędzia?",
+    "Czy mogę dać pod zastaw złoto?",
+    "Czy mogę bezpiecznie zastawić dobra materialne?",
+    "Czy mogę dać pod zastaw elektronikę?",
+    "Czy mogę sprzedać telewizor?",
+    "Czy mogę sprzedać telefon?",
+    "Czy sprzedaż odbywa sie wysyłkowo?"
+  ],
+  "news_queries": ["pożyczka", "lombard zaufany", "finanse", "rynek lombardowy w Polsce", "cena złota"],
+  "cta": "Napisz do nas, jeśli potrzebujesz pożyczki.",
+  "groq_model": "openai/gpt-oss-120b"
+}
